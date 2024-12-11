@@ -6,8 +6,22 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8729d0fe63d441946a73ae43c3e57052
+  - enabled: 1
+    path: Assets/Scenes/MENUDIFFICULTIES.unity
+    guid: d65ec55457b3ff14fac7ee51c5aa3362
+  - enabled: 1
+    path: Assets/Scenes/CloudClash.unity
+    guid: 17b35c80a2cb70d4dbab315b3d6dfddf
+  - enabled: 1
+    path: Assets/Scenes/CLOUDCLASH DIFFICULTIES/EASY/CloudClashEASY.unity
+    guid: fef4d1648288eb24c9f2c6ec749ceca0
+  - enabled: 1
+    path: Assets/Scenes/CLOUDCLASH DIFFICULTIES/MEDIUM/CloudClashMEDIUM.unity
+    guid: 7ef730ce910886c41b188e7f38841038
+  - enabled: 1
+    path: Assets/Scenes/CLOUDCLASH DIFFICULTIES/HARD/CloudClashHARD.unity
+    guid: 084c9ab581659cc40a71d338ddf7fa37
+  m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
